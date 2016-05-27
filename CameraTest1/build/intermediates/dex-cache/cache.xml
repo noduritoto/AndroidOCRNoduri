@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/noduritoto/Desktop/CameraTest1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2275c4b9cf40ff7e3fd62dfc8ee30204cb371ea3">
+        <dex dex="/Users/noduritoto/Desktop/CameraTest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d523684bd35458eef28cf6a6ae6cdd3023472195/classes.dex" />
+    </item>
+    <item
+        jar="/Users/noduritoto/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/noduritoto/Desktop/CameraTest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_a1c44f755f1d96a9d7e7074274bf1b2c953e7354/classes.dex" />
+    </item>
+    <item
+        jar="/Users/noduritoto/Desktop/CameraTest1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="15c8046dcd4a8b320a460fd27c4836c6ff4c1fb1">
+        <dex dex="/Users/noduritoto/Desktop/CameraTest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a2073db5a06d3551ce932eb713ba4ce062e6de86/classes.dex" />
+    </item>
+
+</items>

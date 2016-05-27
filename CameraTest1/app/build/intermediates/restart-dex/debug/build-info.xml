@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="45416057641494" >
+
+    <task
+        name="javac"
+        duration="224" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="110" />
+    <task
+        name="verifier"
+        duration="19" />
+
+    <artifact
+        location="/Users/noduritoto/Desktop/CameraTest1/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="45416057641494" >
+        <artifact
+            location="/Users/noduritoto/Desktop/CameraTest1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
